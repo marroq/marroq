@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Douglas Figueroa</h1>
-<h3 align="center">A Backend and RPA Developer in love of programming</h3>
+<h3 align="center">A Backend Developer in love of programming</h3>
 
 - 🌱 I’m currently learning **Frontend with React and DevOps development**
 
-- 👯 I’m looking to collaborate on **Backend and RPA projects**
+- 👯 I’m looking to collaborate on **Backend projects**
 
 - 📫 How to reach me **douglas.figueroaesquivel@gmail.com**
 
